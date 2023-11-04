@@ -1,0 +1,28 @@
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+}
+
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Playpen Sans', cursive;
+}
+
+html{
+    background-color:#FFFEE6;
+}
+
+.family_picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size:x-large;
+    font-family: 'Dancing Script', cursive;
+}
